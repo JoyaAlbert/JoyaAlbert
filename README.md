@@ -21,7 +21,7 @@
 
 <br>
 
-![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyaAlbert&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyaAlbert&layout=compact)](https://github.com/JoyaAlbert/github-readme-stats)
+![JoyaAlbert's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoyaAlbert&theme=dark&hide_border=true)&nbsp;&nbsp;
+![JoyaAlbert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyaAlbert&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </details>
 
