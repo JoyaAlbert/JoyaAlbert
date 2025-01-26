@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" alt="kotlin logo"  />
   
-➤ I want to explore more cybersecurity and ESP32 projects
+➤ I want to explore more about cybersecurity and ESP32 projects
 
 <details>
 <summary><b>stats</b></summary>
