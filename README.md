@@ -6,7 +6,7 @@
 
 ➤ C and Debian enjoyer
 
-➤ Skills on   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+➤ Skills on ' '  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="12" />
@@ -30,29 +30,3 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 - contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 </details>
-
-
-###
-
-<br clear="both">
-
-<div align="center">
-  
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoyaAlbert/JoyaAlbert/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/1XfNKHBk/descarga.jpg"  />
-</div>
-
-###
