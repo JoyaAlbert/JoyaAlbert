@@ -1,7 +1,8 @@
 ![Header](https://i.postimg.cc/nh4YMnLN/github-header-image.png)
 
 ###
-<br>
+<details>
+<summary><b>stats</b></summary>
 
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 
@@ -10,12 +11,6 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 - submitted **{{ PULL_REQUESTS }}** PRs,
 - received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects,
 - contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
-</details>
-
-<details>
-<summary><b>projects</b></summary>
-
 <br>
 
 
