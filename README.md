@@ -1,10 +1,23 @@
 ![Header](https://i.postimg.cc/nh4YMnLN/github-header-image.png)
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyaAlbert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoyaAlbert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+###
+<br>
+
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
+
+- pushed **{{ COMMITS }}** commits,
+- opened **{{ ISSUES }}** issues,
+- submitted **{{ PULL_REQUESTS }}** PRs,
+- received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects,
+- contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+</details>
+
+<details>
+<summary><b>projects</b></summary>
+
+<br>
+
 
 ###
 
