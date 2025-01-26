@@ -21,13 +21,7 @@
 
 <br>
 
-I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
-
-- pushed **{{ COMMITS }}** commits,
-- opened **{{ ISSUES }}** issues,
-- submitted **{{ PULL_REQUESTS }}** PRs,
-- received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects,
-- contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
+![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyaAlbert&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyaAlbert&layout=compact)](https://github.com/JoyaAlbert/github-readme-stats)
 </details>
 
