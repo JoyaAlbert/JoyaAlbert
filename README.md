@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alberto Joya<br>I'm an engineering student at UAH and a 42 Madrid student.</h2>
-
+![Header](https://i.postimg.cc/nh4YMnLN/github-header-image.png)
 ###
 
 <div align="center">
