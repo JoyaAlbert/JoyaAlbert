@@ -4,6 +4,8 @@
 <details>
 <summary><b>stats</b></summary>
 
+<br>
+
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 
 - pushed **{{ COMMITS }}** commits,
@@ -11,7 +13,8 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 - submitted **{{ PULL_REQUESTS }}** PRs,
 - received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects,
 - contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-<br>
+
+</details>
 
 
 ###
