@@ -12,7 +12,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
   <img width="12" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="20" alt="js logo"  />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="20" alt="tsx logo"  />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="20" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://icongr.am/devicon/android-plain.svg?size=128&color=currentColor" height="20" alt="android logo"  />
+  <img width="12" />
   
 ○ I want to explore more about cybersecurity and ESP32 projects
 
