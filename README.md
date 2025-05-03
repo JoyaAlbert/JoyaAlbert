@@ -20,11 +20,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/android-plain.svg?size=128&color=currentColor" height="20" alt="android logo"  />
+  <img src="https://devicon-website.vercel.app/api/android/plain-wordmark.svg?color=%23C3FF00" height="20" alt="android logo" />
   <img width="12" />
   
 ○ I want to explore more about cybersecurity and ESP32 projects
 
+<!--
 <details>
 <summary><b>stats</b></summary>
 
