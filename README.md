@@ -3,6 +3,8 @@
 ###
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/JoyaAlbert/count.svg)
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyaAlbert" alt="kde-la-c" /></a> </p>
 
 ○ C and Debian enjoyer
 
