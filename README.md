@@ -2,7 +2,9 @@
   
 
 <br>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoyaAlbert)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoyaAlbert)](https://github.com/JoyaAlbert/github-contribution-stats/)
+
+
 ○ C and Debian enjoyer
 
 ○ Skills on‎‎‎ ‎‎‎‎‎&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
