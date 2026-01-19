@@ -2,7 +2,7 @@
   
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoyaAlbert" alt="JoyaAlbert" /></a> </p>
+<p align="left"> <a[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/JoyaAlbert/github-contribution-stats/) alt="JoyaAlbert" /></a> </p>
 
 ○ C and Debian enjoyer
 
