@@ -2,7 +2,7 @@
   
 
 <br>
-<p align="left"> <a[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/JoyaAlbert/github-contribution-stats/) alt="JoyaAlbert" /></a> </p>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/JoyaAlbert/github-contribution-stats/)
 
 ○ C and Debian enjoyer
 
