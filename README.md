@@ -15,9 +15,9 @@
 
 ○ Telecommunication Engineer
 
-○ Working on MLOps for Energy applications
+○ Working on **MLOps** for Energy applications at **UAH/AXPO**
 
-○ Skills on‎‎‎ ‎‎‎‎‎&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+○ Main Tech Stack: ‎‎‎‎‎&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="12" />
@@ -34,7 +34,9 @@
   <img src="https://devicon-website.vercel.app/api/android/plain-wordmark.svg?color=%23C3FF00" height="20" alt="android logo" />
   <img width="12" />
   
-○ I want to explore more about cybersecurity and ESP32 projects
+○ I want to explore more about Cybersecurity and ESP32 projects
+
+○ Previously at **UAH/Logytel**: Developed a full-stack railway monitoring system (Web/Backend/Android APP)
 
 <br>
 
@@ -42,6 +44,6 @@
 
 <div align="center">
   
-### 💬 "The best way to predict the future is to invent it." - Alan Kay
+###  "The best way to predict the future is to invent it." - Alan Kay
   
 </div>
