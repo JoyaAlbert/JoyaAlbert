@@ -2,8 +2,7 @@
   
 
 <br>
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoyaAlbert)](https://github.com/JoyaAlbert/github-contribution-stats/)
-
+ [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JoyaAlbert)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ○ C and Debian enjoyer
 
