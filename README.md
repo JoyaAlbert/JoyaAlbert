@@ -1,5 +1,5 @@
-![Header](https://i.postimg.cc/nh4YMnLN/github-header-image.png)
-  
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/93e37d91-1a21-4234-a929-a1eb5b535bae" />
+
 
 <br>
 
