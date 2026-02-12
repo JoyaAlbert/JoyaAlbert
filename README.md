@@ -11,7 +11,7 @@
 
 ## About Me
 
-○ C and Debian enjoyer
+○ C and Fedora enjoyer
 
 ○ Telecommunication Engineer
 
