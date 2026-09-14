@@ -36,7 +36,9 @@
   
 ○ I want to explore more about Cybersecurity and ESP32 projects
 
-○ Previously at **UAH/Logytel**: Developed a full-stack railway monitoring system (Web/Backend/Android APP)
+○ Previously at **UAH/Logytel**: Developed a full-stack railway monitoring system (Web/Backend/Android Auto APP)
+
+○ Previously at **UAH/AXPO**: Designed and implemented an end-to-end MLOps architecture for market forecasting and optimization
 
 <br>
 
