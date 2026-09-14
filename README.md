@@ -15,7 +15,7 @@
 
 ○ Telecommunication Engineer
 
-○ Working on **MLOps** for Energy applications at **UAH/AXPO**
+○ **Data engineer** for Energy applications at **AXPO**
 
 ○ Main Tech Stack: ‎‎‎‎‎&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
   <img width="12" />
